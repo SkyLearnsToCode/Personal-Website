@@ -100,6 +100,7 @@ hr {
 .img-left {
     float: none;
     margin: 0 auto 0;
+    width: 15%;
 }
 
 footer {

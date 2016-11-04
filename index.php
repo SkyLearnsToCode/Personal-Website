@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Business Casual - Start Bootstrap Theme</title>
+    <title>Tianyi Li</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,8 +32,8 @@
 
 <body>
 
-    <div class="brand">Business Casual</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="brand">Tianyi Li</div>
+    <div class="address-bar">Department of Computer Science | Virginia Tech | Blacksburg, VA 24060</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -47,7 +47,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Business Casual</a>
+                <a class="navbar-brand" href="index.html">Tianyi Li</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -73,10 +73,10 @@
 
     <div class="container">
 
-        <div class="row">
+        <div class="row" hidden>
             <div class="box">
                 <div class="col-lg-12 text-center">
-                    <div id="carousel-example-generic" class="carousel slide">
+                    <div id="carousel-example-generic" class="carousel slide" >
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">
                             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -106,13 +106,13 @@
                         </a>
                     </div>
                     <h2 class="brand-before">
-                        <small>Welcome to</small>
+                        <small>I am</small>
                     </h2>
-                    <h1 class="brand-name">Business Casual</h1>
+                    <h1 class="brand-name">Tianyi Li</h1>
                     <hr class="tagline-divider">
                     <h2>
-                        <small>By
-                            <strong>Start Bootstrap</strong>
+                        <small>who
+                            <strong>learn, research, listen, cook, and gym</strong>
                         </small>
                     </h2>
                 </div>
@@ -123,20 +123,18 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Build a website
-                        <strong>worth visiting</strong>
+                    <h2 class="intro-text text-center">Short Bio
+                        <strong>WHO AM I?</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
+                    <img class="img-responsive img-border img-left" src="img/profile.png" alt="">
                     <hr class="visible-xs">
-                    <p>The boxes used in this template are nested inbetween a normal Bootstrap row and the start of your column layout. The boxes will be full-width boxes, so if you want to make them smaller then you will need to customize.</p>
-                    <p>A huge thanks to <a href="http://join.deathtothestockphoto.com/" target="_blank">Death to the Stock Photo</a> for allowing us to use the beautiful photos that make this template really come to life. When using this template, make sure your photos are decent. Also make sure that the file size on your photos is kept to a minumum to keep load times to a minimum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                    <p>I'm a 2nd year Ph.D. student in <a href="http://vt.edu/">Virginia Tech</a>, advised by excellent <a href="http://people.cs.vt.edu/north/">Dr. Chris North</a> and <a href="http://kurtluther.com/">Dr. Kurt Luther</a>. My research interest is in crowdsourced visualization and sensemaking. I study how we can incite, acquire and structure crowd wisdom to make sense of various kinds of information about our world. My work has been focused on smartly choosing the amount and portion of contexts at a reasonable level of abstraction, assisted by efficient visualization techniques, so that ordinary individuals can handle and contribute to intelligence analysis process. <a href="about.html">Read more</a>
                 </div>
             </div>
         </div>
 
-        <div class="row">
+        <div class="row" hidden>
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
@@ -157,7 +155,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; Tianyi LI 2016</p>
                 </div>
             </div>
         </div>
